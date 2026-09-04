@@ -1,2 +1,2 @@
 # course-api
-Course management REST API
+University course management REST API
