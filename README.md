@@ -1,2 +1,2 @@
-# Projects
-Folder for my projects
+# course-api
+Course management REST API
